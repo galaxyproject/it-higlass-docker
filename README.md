@@ -16,4 +16,3 @@ downloaded with
 
 ```
 docker pull galaxy/higlass-it
-```
